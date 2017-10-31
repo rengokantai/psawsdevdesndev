@@ -1,5 +1,16 @@
 # psawsdevdesndev
 
+## 7. Routing from AWS
+### 2. Route 53 Routing Policies
+Single Routing Policy
+- single DNS record from one source to one AWS resource
+
+Weighted Routing Policy
+- Assign weights to multiple resources and divide traffic between them according to those weights
+
+Failover Routing Policy
+- Configure a backup resource to route traffic to if the primary resource fails
+
 ## 8. Delivering Content with AWS
 ### 2 Understanding CloudFront Invalidations
 
